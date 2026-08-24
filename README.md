@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://pwang7874-crypto.github.io/-ge-ren-zhu-ye/">
+<a href="https://pwang7874-crypto.github.io/pwang7874-crypto/">
   <img src="./assets/hero.svg" alt="Wangpan — AI Product Manager" width="100%" />
 </a>
 
@@ -11,7 +11,7 @@
 广播电视编导背景的 AI 产品经理。  
 我用导演思维理解用户、情绪与体验，用产品方法把复杂技术变成真实场景。
 
-[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-D9FF43?style=for-the-badge&logo=github&logoColor=0D0D10)](https://pwang7874-crypto.github.io/-ge-ren-zhu-ye/)
+[![Portfolio](https://img.shields.io/badge/ENTER_PORTFOLIO-D9FF43?style=for-the-badge&logo=github&logoColor=0D0D10)](https://pwang7874-crypto.github.io/pwang7874-crypto/)
 [![Email](https://img.shields.io/badge/EMAIL_ME-0D0D10?style=for-the-badge&logo=gmail&logoColor=F2F0E8)](mailto:13069582552@163.com)
 [![Profile views](https://komarev.com/ghpvc/?username=pwang7874-crypto&style=for-the-badge&color=725cff&label=PROFILE+VIEWS)](https://github.com/pwang7874-crypto)
 
@@ -36,8 +36,8 @@
 | --- | --- |
 | **[DSH Pet Voice](https://github.com/pwang7874-crypto/deepseekharness-)** | 会陪伴、会行动的系统级 AI 桌宠。把 Agent 的会话与任务事件变成置顶桌宠、语音、动画和原生通知。 |
 | **[Human Writing](https://github.com/pwang7874-crypto/comic-human-writing)** | 为中文内容找回“人味”的 ChatGPT / Codex Skill，用材料、追问、观点碰撞与文风检查改善模型腔。 |
-| **[MUSE](https://pwang7874-crypto.github.io/-ge-ren-zhu-ye/#work)** | 审美先于参数的 AIGC 生图平台，让非专业创作者把模糊的视觉感觉转化为可控成片。 |
-| **[别穿帮](https://pwang7874-crypto.github.io/-ge-ren-zhu-ye/#work)** | 剧组自然光连续性助手，把光线变化从片场经验变成可计算、可预警的拍摄决策。 |
+| **[MUSE](https://pwang7874-crypto.github.io/pwang7874-crypto/#work)** | 审美先于参数的 AIGC 生图平台，让非专业创作者把模糊的视觉感觉转化为可控成片。 |
+| **[别穿帮](https://pwang7874-crypto.github.io/pwang7874-crypto/#work)** | 剧组自然光连续性助手，把光线变化从片场经验变成可计算、可预警的拍摄决策。 |
 
 ## Evidence
 
@@ -81,6 +81,6 @@
 
 **Story → System → Product**
 
-[View the full portfolio](https://pwang7874-crypto.github.io/-ge-ren-zhu-ye/) · [Start a conversation](mailto:13069582552@163.com)
+[View the full portfolio](https://pwang7874-crypto.github.io/pwang7874-crypto/) · [Start a conversation](mailto:13069582552@163.com)
 
 </div>
